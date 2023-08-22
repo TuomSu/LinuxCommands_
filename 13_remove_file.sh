@@ -1,1 +1,1 @@
-git rm log/error.log
+rm log/error.log
