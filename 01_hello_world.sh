@@ -15,4 +15,4 @@
 # kirjoittamalla ./01_hello_world.sh
 
 # echo 'Hello world!'Hello world
-echo Hello World!
+echo 'Hello World!'
