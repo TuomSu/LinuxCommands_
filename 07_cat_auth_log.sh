@@ -1,1 +1,2 @@
 
+cat log/auth.log

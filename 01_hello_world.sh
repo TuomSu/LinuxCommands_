@@ -14,4 +14,5 @@
 # Voit sen jälkeen suorittaa tämän tiedoston komentorivillä 
 # kirjoittamalla ./01_hello_world.sh
 
-# echo 'Hello world!'
+# echo 'Hello world!'Hello world
+echo Hello World
